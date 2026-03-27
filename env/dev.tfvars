@@ -3,7 +3,7 @@ tenant_id              = "<your-tenant-guid>"
 location               = "eastus"
 rg_name                = "rg-agentic-dev"
 
-foundry_account_name   = "af-agentic-dev"
+foundry_account_name   = "af-dev"
 foundry_project_name   = "proj-agentic-dev"
 existing_ai_search_id  = ""  # or /subscriptions/.../Microsoft.Search/searchServices/...
 
