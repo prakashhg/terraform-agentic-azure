@@ -13,7 +13,7 @@ jwt_audience           = "api://your-agent-api"
 logicapp_name          = "la-servicenow-tool"
 acr_name               = ""  # e.g., "acragenticdev" if you want ACR
 
-gh_org                 = "your-gh-org"
+gh_org                 = "prakashhg"
 gh_repo                = "terraform-agentic-azure"
 gh_branch              = "main"
 
